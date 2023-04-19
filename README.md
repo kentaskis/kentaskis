@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kentaskis
-- 👀 I’m interested in PHP, Yii, Symfony
+- 👀 I’m interested in PHP, Yii, Symfony, Java, Spring Framework
 - 📫 How to reach me @kentaskis (telegram)
 
 <!---
